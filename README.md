@@ -10,10 +10,10 @@ Exports results to a CSV file in your Documents folder
 
 **Key Features:**
 
-Cross-platform: Works on Windows, Linux, and macOS
-Customizable search: Edit [strPackList](GitHub-Python Library Locate/Python-Library-Locate.py:50) to specify which packages to locate
-Comprehensive scanning: Checks all Python path directories, filtering out non-folders and lib-dynload
-Detailed output: CSV contains three columns: Hard Drive Path, Matched Folder, and Requested Library
+Cross-platform: Works on Windows, Linux, and macOS.<br>
+Customizable search to specify which packages to locate.<br>
+Comprehensive scanning: Checks all Python path directories.<br>
+Detailed output: CSV contains three columns: Hard Drive Path, Matched Folder, and Requested Library<br>
 Logging: Uses custom PythonLog module to track execution
 
 This python app was developed utilizing Python 3.13.7
