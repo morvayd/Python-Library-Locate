@@ -1,5 +1,7 @@
 # Python-Library-Locate App
-Easily find Python library install locations.  Enter the Python library in the Python app array, receive a .csv of the install location(s), if they exist.  Utilizes all library folders a Python installation may have.  
+This Python script ([Python-Library-Locate.py](https://github.com/morvayd/Ollama-docling-RAG/tree/main) is a Python package location finder that searches your system for installed Python libraries.
+
+Enter the Python library in the Python app array, receive a .csv of the install location(s), if they exist.  Utilizes all library folders a Python installation may have.  
 
 This python app was developed utilizing Python 3.13.7
   - Testing occurred on Windows 11, MacOS 15.3.1 and Linux Mint 22.04.
